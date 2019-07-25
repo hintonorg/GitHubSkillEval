@@ -19,7 +19,7 @@ namespace GitHubSkillEvalConsoleApp
             
             client = new GitHubClient(new ProductHeaderValue(GetHubIdentity));
 
-            credentials = new Credentials("5d708f5960a5028ed7b174de426dd3933f5e79e8");  //My personal access token
+            credentials = new Credentials("26c868e1ca71fc1e17e395583fc103cb6a654a50");  //My personal access token
             client.Credentials = credentials;
 
             Task.Run(async () => { await GetRepos(); }).Wait();
