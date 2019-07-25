@@ -19,8 +19,8 @@ namespace GitHubSkillEvalConsoleApp
             
             client = new GitHubClient(new ProductHeaderValue(GetHubIdentity));
 
-            credentials = new Credentials("133e3554909b83a8a81364661fe822e60d8ff466");  //My personal access token
-            //credentials = new Credentials("dwaynehinton", "Mygithubpwd1");            //Login name and password
+            //credentials = new Credentials("133e3554909b83a8a81364661fe822e60d8ff466");    //My personal access token.  Does not work if I update GitHub with a new Id.
+            credentials = new Credentials("dwaynehinton", "Mygithubpwd1");                  //Login name and password
             client.Credentials = credentials;
 
             Task.Run(async () => { await GetRepos(); }).Wait();
