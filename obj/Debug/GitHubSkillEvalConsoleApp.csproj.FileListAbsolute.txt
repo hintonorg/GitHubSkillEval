@@ -1,0 +1,10 @@
+C:\Dev\C#Apps\GitHub\GitHubSkillEvalConsoleApp\obj\Debug\GitHubSkillEvalConsoleApp.csprojAssemblyReference.cache
+C:\Dev\C#Apps\GitHub\GitHubSkillEvalConsoleApp\obj\Debug\GitHubSkillEvalConsoleApp.csproj.CoreCompileInputs.cache
+C:\Dev\C#Apps\GitHub\GitHubSkillEvalConsoleApp\bin\Debug\GitHubSkillEvalConsoleApp.exe.config
+C:\Dev\C#Apps\GitHub\GitHubSkillEvalConsoleApp\bin\Debug\GitHubSkillEvalConsoleApp.exe
+C:\Dev\C#Apps\GitHub\GitHubSkillEvalConsoleApp\bin\Debug\GitHubSkillEvalConsoleApp.pdb
+C:\Dev\C#Apps\GitHub\GitHubSkillEvalConsoleApp\bin\Debug\Octokit.dll
+C:\Dev\C#Apps\GitHub\GitHubSkillEvalConsoleApp\bin\Debug\Octokit.xml
+C:\Dev\C#Apps\GitHub\GitHubSkillEvalConsoleApp\obj\Debug\GitHubSkillEvalConsoleApp.csproj.CopyComplete
+C:\Dev\C#Apps\GitHub\GitHubSkillEvalConsoleApp\obj\Debug\GitHubSkillEvalConsoleApp.exe
+C:\Dev\C#Apps\GitHub\GitHubSkillEvalConsoleApp\obj\Debug\GitHubSkillEvalConsoleApp.pdb
